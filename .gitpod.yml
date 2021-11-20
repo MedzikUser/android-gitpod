@@ -1,2 +1,1 @@
-image:
-  file: .gitpod.Dockerfile
+image: medzik/gitpod:full-android-build
